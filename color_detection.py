@@ -3,7 +3,8 @@ import numpy as np
 import pandas as pd
 import argparse
 
-# Made By: Mahmoud Nabil Hessein
+
+# Mahmoud Nabil Task 2
 
 #Creating argument parser to take image path from command line
 ap = argparse.ArgumentParser()
